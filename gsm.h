@@ -1,3 +1,0 @@
-bool connect() {
-  return true;
-}

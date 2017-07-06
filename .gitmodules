@@ -1,0 +1,6 @@
+[submodule "https:/github.com/piblodev1/piblo-bluetooth.git"]
+	path = https:/github.com/piblodev1/piblo-bluetooth.git
+	url = ./
+[submodule "bluetooth"]
+	path = bluetooth
+	url = https://github.com/piblodev1/piblo-bluetooth.git
